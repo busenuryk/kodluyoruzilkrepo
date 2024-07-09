@@ -4,17 +4,13 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde b
 README dosyası, bir adet index.html barındırıyor.
 
 # Installation 
-Önccelikle projeyi klonlayın.
+Öncelikle projeyi klonlayın.
 
 https://github.com/busenuryk/kodluyoruzilkrepo.git
 
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-cd kodluyoruzilkrepo
-code .
 
 
 # Contributing
