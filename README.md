@@ -10,7 +10,7 @@ https://github.com/busenuryk/kodluyoruzilkrepo.git
 
 
 # Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 
 # Contributing
