@@ -1,0 +1,72 @@
+.centered {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.first {
+    margin: 8px;
+    padding: 5px 0px;
+}
+
+#aramaCubugu {
+    margin: 3px;
+}
+
+* {
+    margin: 0;
+}
+
+.bc-gray {
+    background-color: rgb(224, 213, 213);
+    text-align: center;
+}
+.bc-lightBlue {
+    background-color: rgb(117, 190, 193);
+}
+
+.bc-blue {
+    background-color: rgb(72, 72, 193);
+}
+
+.bc-darkBlue {
+    background-color: rgb(46, 142, 110);
+}
+
+.container {
+    overflow: hidden;
+}
+
+.box {
+    padding: 25px 7px;
+    margin-right: 2px;
+    float:left;
+    width: 32.95%;
+    height: 120px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.box:first-child {
+    margin-left: 8px;
+}
+
+.box:last-child {
+    float: right;
+    margin-right: 8px;
+}
+
+button {
+    border-radius: 3px;
+    border-color: rgb(165, 157, 157);
+    box-shadow: 2px 2px 5px rgb(207, 176, 176);
+}
+
+.button2 {
+    border-radius: 3px;
+    border-color: rgb(165, 157, 157);
+    box-shadow: 2px 2px 5px rgb(28, 102, 50);
+}
+
+footer{
+    margin: 10px;
+    text-align: center;
+}
