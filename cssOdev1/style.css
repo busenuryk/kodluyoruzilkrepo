@@ -1,0 +1,86 @@
+body {
+    background-color: #c0caad;
+}
+
+.header {
+    background-color:#62825f ;
+    text-align: center;
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+.onBilgi {
+    background-color: #C9E8FA;
+    text-align: center;
+    color: #393a37;
+    border-radius: 50px;
+
+}
+.malzeme {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.tiklayin {
+    color: #62825f;
+    font-size: 36px;
+}
+.tiklayin a {
+    color: #fff;
+}
+.tiklayin li {
+    text-align: center;
+}
+
+ul li {
+    font-size: 17px;
+}
+
+ol {
+    text-align:justify ;
+    font-size: 17px;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.foto img {
+    margin: 10px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: #62825f;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 10%;
+}
+
+.footer a {
+    color: aliceblue;
+}
+
+#hakkimizda {
+    padding: 5px;
+    position: relative;
+    margin: 10px 20%;
+    box-shadow: 2px 2px 70px rgb(112, 108, 108);
+    border: solid 1px rgb(160, 154, 154);
+    width: 60%;
+    border-radius: 7px;
+    color: #fff;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+
+.yorum {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:#393a37;
+}
